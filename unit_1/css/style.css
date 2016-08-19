@@ -23,6 +23,7 @@ p {
 }
 
 a {
-	font-style: italic;
+	font-style: italic; 
+	font-weight: bold;
 	text-decoration: none;
 }
