@@ -10,3 +10,7 @@ h2 {
 p {
 	font-family: "Calibri Light", monospace;
 }
+
+a {
+	font-style: italic;
+}
