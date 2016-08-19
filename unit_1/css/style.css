@@ -5,6 +5,7 @@ body {
 h1, h2 {
 		font-family: Arial, sans-serif;
 		font-weight: normal;
+		text-decoration: underline;
 }
 
 h1 {
@@ -21,4 +22,5 @@ p {
 
 a {
 	font-style: italic;
+	text-decoration: none;
 }
