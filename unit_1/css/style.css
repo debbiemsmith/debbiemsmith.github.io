@@ -13,18 +13,19 @@ h1, h3 {
 h1 {
 		color: #4F86C6;
 }
+
 h3 {
 		color: #2b90d9;
 		font-size: 24px;
 }
 
-#third {
-		font-weight: bold;
-		font-family: Arial, sans-serif;
-}
-
 .important {
 	font-size: 18px;
+}
+
+#fourth {
+		font-weight: bold;
+		font-family: Arial, sans-serif;
 }
 
 p {
