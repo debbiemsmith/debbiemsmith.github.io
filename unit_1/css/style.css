@@ -27,6 +27,10 @@ p {
 	font-family: "Calibri Light", monospace;
 }
 
+.important {
+	font-size: 10px;
+}
+
 a {
 	font-style: italic; 
 	font-weight: bold;
