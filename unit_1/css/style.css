@@ -3,7 +3,7 @@ body {
 	text-align: justify;
 }
 
-h1, h2 {
+h1, h3 {
 		font-family: Arial, sans-serif;
 		font-weight: normal;
 		text-decoration: underline;
@@ -13,7 +13,7 @@ h1, h2 {
 h1 {
 		color: #4F86C6;
 }
-h2 {
+h3 {
 		color: #2b90d9;
 		font-size: 24px;
 }
