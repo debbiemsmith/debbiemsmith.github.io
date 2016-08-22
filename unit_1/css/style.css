@@ -4,18 +4,18 @@ body {
 }
 
 h1, h3 {
-		font-family: Arial, sans-serif;
-		font-weight: bold;
-		text-decoration: underline;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-decoration: underline;
 }
 
 h1 {
-		color: #4F86C6;
-		text-transform: uppercase;
+	color: #4F86C6;
+	text-transform: uppercase;
 }
 
 h3 {
-		font-size: 24px;
+	font-size: 24px;
 }
 
 .important {
@@ -23,10 +23,10 @@ h3 {
 }
 
 #fourth {
-		font-family: Arial, sans-serif;
-		font-weight: bold;
-		text-decoration: underline;
-		font-size: 24px;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 24px;
 }
 
 p {
@@ -38,4 +38,5 @@ a {
 	font-style: italic; 
 	font-weight: bold;
 	text-decoration: none;
+	color: #0000FF;
 }
