@@ -23,13 +23,14 @@ h3 {
 		font-family: Arial, sans-serif;
 }
 
+.important {
+	font-size: 18px;
+}
+
 p {
 	font-family: "Calibri Light", monospace;
 }
 
-.important {
-	font-size: 18px;
-}
 
 a {
 	font-style: italic; 
