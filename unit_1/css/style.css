@@ -1,5 +1,5 @@
 body {
-	background-color: #f2f2f2;
+	background-color: white;
 	text-align: justify;
 }
 
@@ -7,10 +7,10 @@ h1, h3 {
 	font-family: Arial, sans-serif;
 	font-weight: bold;
 	text-decoration: underline;
+	color: #002868;
 }
 
 h1 {
-	color: #00008B;
 	text-transform: uppercase;
 }
 
@@ -38,5 +38,6 @@ a {
 	font-style: italic; 
 	font-weight: bold;
 	text-decoration: none;
-	color: #0000FF;
+	color: #00607C
+;
 }
