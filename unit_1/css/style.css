@@ -50,6 +50,8 @@ ul.headnav {
 	background-color: #ededed;
 	border-top: 2px solid #A9A9A9;
 	border-bottom: 2px solid #A9A9A9;
+	border-left: 2px solid #A9A9A9;
+	border-right: 2px solid #A9A9A9;
 }
 
 ul.headnav li {
