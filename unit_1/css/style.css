@@ -1,12 +1,10 @@
 body {
-	background-color: #f2f2f2;
+	background-color: white;
 	background-size: cover;
-	text-align: justify;
 }
 
 #header-img {
 	width: 674px;
-	background-color: black;
 }
 
 #wrapper {
@@ -73,6 +71,12 @@ ul.headnav li a {
 ul.headnav li a: hover {
 	color: white;
 	background-color: black;
+}
+
+#first {
+	background-color: #f2f2f2;
+	width: 900px;
+	height: 500px;
 }
 
 .img-carousel {
