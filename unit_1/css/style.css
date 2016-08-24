@@ -4,16 +4,16 @@ body {
 	text-align: justify;
 }
 
-.header-img {
+#header-img {
 	width: 674px;
 	background-color: black;
 }
 
-.wrapper {
+#wrapper {
 	width: 100%;
 }
 
-.container {
+#container {
 	width: 100%;
 }
 
