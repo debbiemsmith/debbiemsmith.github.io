@@ -69,6 +69,11 @@ ul.headnav li a {
 	font-size: 15px;
 }
 
+ul.headnav li a: hover {
+	color: white;
+	background-color: black;
+}
+
 .img-carousel {
 	float:left;
 	background-color: white;
