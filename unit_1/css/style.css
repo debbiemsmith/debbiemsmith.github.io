@@ -21,6 +21,13 @@ body {
 	float: right;
 }
 
+.mainnav {
+	background: #ededed;
+	float: left;
+	height: 30px;
+	width: 960px;
+}
+
 h1, h3 {
 	font-family: Georgia, sans-serif;
 	font-weight: bold;
