@@ -63,7 +63,6 @@ ul.headnav li a {
 	font-family: Arial, sans-serif;
 	font-weight: bold;
 	text-decoration: none;
-	font-style: none;
 	font-size: 17px;
 }
 
@@ -99,7 +98,6 @@ p {
 a {
 	font-size: 10px;
 	font-family: Georgia, sans-serif;
-	font-style: italic; 
 	font-weight: bold;
 	color: #00607C;
 }
