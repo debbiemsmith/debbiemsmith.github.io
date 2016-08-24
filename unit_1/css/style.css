@@ -21,7 +21,7 @@ ul.smallnav {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: blue; 
+	background-color: white; 
 }
 
 ul.smallnav li{
@@ -69,15 +69,6 @@ ul.headnav li a {
 ul.headnav li:last-child {
 	border-right: none;
 }
-
-ul.headnav li a:hover:not(.active) {
-	background-color: #ededed;
-}
-
-.active {
-	background-color: blue;
-}
-
 
 .img-carousel {
 	float:left;
