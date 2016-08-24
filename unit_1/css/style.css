@@ -20,12 +20,24 @@ body {
 	float: right;
 }
 
-.ul.topnav {
+.ul.headnav {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
 	background-color: #ededed;
+}
+
+.ul.headnav li {
+	float: left;
+}
+
+.ul.headnav li a {
+	display: inline-block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	font-size: 17px;
 }
 
 .img-carousel {
