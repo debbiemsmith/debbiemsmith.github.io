@@ -28,8 +28,8 @@ body {
 	width: 960px;
 }
 
-.img-align {
-	vertical-align: middle;
+.img-carousel {
+	float:left;
 }
 
 .text {
