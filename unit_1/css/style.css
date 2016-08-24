@@ -5,15 +5,15 @@ body {
 }
 
 .header-img {
-	width: 75%;
+	width: 100%;
 }
 
 .wrapper {
-	width: 75%;
+	width: 100%;
 }
 
 .container {
-	width: 75%;
+	width: 100%;
 }
 
 .nav {
@@ -24,7 +24,7 @@ body {
 	background: #ededed;
 	float: left;
 	height: 30px;
-	width: 960px;
+	width: 100%;
 }
 
 .img-carousel {
