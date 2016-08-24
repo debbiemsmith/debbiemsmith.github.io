@@ -33,7 +33,7 @@ h1 {
 	font-weight: bold;
 	text-transform: uppercase;
 	text-decoration: underline;
-	font-size: 25px;
+	font-size: 18px;
 	color: #002868;
 }
 
@@ -47,7 +47,7 @@ p {
 
 
 a {
-	font-size: 18px;
+	font-size: 12px;
 	font-family: Georgia, sans-serif;
 	font-style: italic; 
 	font-weight: bold;
