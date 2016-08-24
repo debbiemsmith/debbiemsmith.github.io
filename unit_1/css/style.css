@@ -20,7 +20,7 @@ body {
 	float: right;
 }
 
-.ul.headnav {
+ul.headnav {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -28,11 +28,11 @@ body {
 	background-color: #ededed;
 }
 
-.ul.headnav li {
+ul.headnav li {
 	float: left;
 }
 
-.ul.headnav li a {
+ul.headnav li a {
 	display: inline-block;
 	color: black;
 	text-align: center;
