@@ -85,8 +85,12 @@ h1 {
 	color: #002868;
 }
 
-.important {
+.loginbox {
 	font-size: 18px;
+}
+
+.important {
+	font-size: 12px;
 }
 
 p {
