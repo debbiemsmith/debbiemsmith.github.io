@@ -4,6 +4,10 @@ body {
 	text-align: justify;
 }
 
+.nav {
+	float: right;
+}
+
 h1, h3 {
 	font-family: Georgia, sans-serif;
 	font-weight: bold;
