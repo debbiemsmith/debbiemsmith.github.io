@@ -20,11 +20,12 @@ body {
 	float: right;
 }
 
-.mainnav {
-	background: #ededed;
-	float: left;
-	height: 30px;
-	width: 100%;
+.ul.topnav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #ededed;
 }
 
 .img-carousel {
