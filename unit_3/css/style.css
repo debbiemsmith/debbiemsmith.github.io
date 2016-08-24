@@ -1,5 +1,5 @@
 body {
-	background-color: white;
+	background-color: #f2f2f2;
 	background-size: cover;
 }
 
@@ -93,9 +93,11 @@ ul.headnav li a: hover {
 
 
 #news {
-	width: 200px;
+	border: 2px solid black;
+	margin-left: 100px;
+	width: 400px;
 	height: 200px;
-	padding: 0px 200px 100px 200px;
+	background-color: white;
 }
 
 h1 {
