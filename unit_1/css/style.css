@@ -30,6 +30,7 @@ ul.headnav {
 
 ul.headnav li {
 	float: left;
+	border-right: 5px solid white;
 }
 
 ul.headnav li a {
@@ -38,10 +39,24 @@ ul.headnav li a {
 	padding: 14px 23px;
 	color: black;
 	font-family: Arial, sans-serif;
+	font-weight: bold;
 	text-decoration: none;
 	font-style: none;
 	font-size: 17px;
 }
+
+ul.headnav li:last-child {
+	border-right: none;
+}
+
+ul.headnav li a:hover:not(.active) {
+	background-color: #ededed;
+}
+
+.active {
+	background-color: #blue;
+}
+
 
 .img-carousel {
 	float:left;
