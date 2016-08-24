@@ -5,7 +5,16 @@ body {
 }
 
 .header {
-	background-size: auto;
+	width: 100%;
+}
+
+.wrapper {
+	width: 100%;
+}
+
+.container {
+	width: 100%;
+	margin: 0 auto;
 }
 
 .nav {
