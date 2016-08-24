@@ -6,6 +6,7 @@ body {
 
 .header-img {
 	width: 674px;
+	background-color: black;
 }
 
 .wrapper {
@@ -14,7 +15,6 @@ body {
 
 .container {
 	width: 100%;
-	background-color: black;
 }
 
 ul.smallnav {
