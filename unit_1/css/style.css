@@ -39,6 +39,7 @@ ul.headnav li a {
 	color: black;
 	font-family: Arial, sans-serif;
 	text-decoration: none;
+	font-style: none;
 	font-size: 17px;
 }
 
