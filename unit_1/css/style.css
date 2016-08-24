@@ -16,8 +16,29 @@ body {
 	width: 100%;
 }
 
-.nav {
+ul.smallnav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: blue; 
+}
+
+ul.smallnav li{
 	float: right;
+	border-right: 5px solid white;
+}
+
+ul.smallnav li a {
+	display: inline-block;
+	text-align: center;
+	padding: 5px 15px;
+	color: black;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+	font-style: none;
+	font-size: 11px;
 }
 
 ul.headnav {
@@ -54,7 +75,7 @@ ul.headnav li a:hover:not(.active) {
 }
 
 .active {
-	background-color: #blue;
+	background-color: blue;
 }
 
 
