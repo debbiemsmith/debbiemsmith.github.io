@@ -32,22 +32,32 @@ a {
 	color: #00607C;
 }
 
-#header-img {
-	width: 674px;
+#headerwrapper {
+	clear: both;
+}
+
+#header {
+	float: left;
+}
+
+#nav {
+	float: right;
+}
+
+#container{
+	width: 100%;
+	padding: 0px 1px 0px 0px;
+	background-color: #00307c;
 }
 
 #wrapper {
 	width: 100%;
 }
 
-#container {
-	width: 100%;
-}
-
 ul.smallnav {
 	list-style-type: none;
 	margin: 0;
-	padding: 0px 0px 2px 0px;
+	padding: 90px 0px 2px 24px;
 	overflow: hidden;
 	background-color: #002868; 
 }
@@ -59,16 +69,17 @@ ul.smallnav li{
 ul.smallnav li a {
 	display: inline-block;
 	text-align: center;
-	padding: 5px 10px;
+	padding: 5px 15px;
 	color: white;
 	font-family: Arial, sans-serif;
-	font-weight: bold;
+	font-weight: 100x;
 	text-decoration: none;
 	font-style: none;
-	font-size: 13px;
+	font-size: 11px;
 }
 
 ul.headnav {
+	clear: both;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -92,7 +103,7 @@ ul.headnav li a {
 	padding: 10px 20px;
 	color: white;
 	font-family: Arial, sans-serif;
-	font-weight: bold;
+	font-weight: lighter;
 	text-decoration: none;
 	font-size: 12px;
 }
@@ -138,3 +149,4 @@ ul.newslinks li a {
 	text-decoration: none;
 	font-size: 12px;
 }
+
