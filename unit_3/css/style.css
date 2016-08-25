@@ -32,41 +32,43 @@ a {
 	color: #00607C;
 }
 
-#headerwrapper {
-	clear: both;
+#header {
+	background-image: url("images/bg_header.jpg"); 
+	background-size: initial;
+	height: 123px;
+	width: 960px;
+	margin: 0;
+	padding: 10px 0px;
 }
 
-#header {
+#logo {
 	float: left;
+	margin: 0;
+	padding: 0px 0px 0px 10px;
+	width: 104px;
+	height: 103px;
 }
 
 #nav {
 	float: right;
-}
-
-#container{
-	width: 100%;
-	background-color: #00307c;
-}
-
-#wrapper {
-	width: 100%;
+	width: 75%;
 }
 
 ul.smallnav {
 	list-style-type: none;
+	display: inline-block;
 	margin: 0;
-	padding: 90px 2px 2px 60px;
+	padding: 0;
 	overflow: hidden;
 	background-color: #002868; 
 }
 
 ul.smallnav li{
 	float: right;
+	margin: 0px 10px;
 }
 
 ul.smallnav li a {
-	display: inline-block;
 	text-align: center;
 	padding: 5px 15px;
 	color: white;
@@ -74,7 +76,7 @@ ul.smallnav li a {
 	font-weight: 100x;
 	text-decoration: none;
 	font-style: none;
-	font-size: 11px;
+	font-size: 85%;
 }
 
 ul.headnav {
