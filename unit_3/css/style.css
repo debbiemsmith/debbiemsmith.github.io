@@ -62,6 +62,7 @@ ul.smallnav {
 	padding: 0;
 	overflow: hidden;
 	background-color: #002868; 
+	float: right;
 }
 
 ul.smallnav li{
