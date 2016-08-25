@@ -32,7 +32,7 @@ a {
 	color: #00607C;
 }
 
-#header {
+#headerwrapper {
 	background-image: url("images/bg_header.jpg"); 
 	height: 123px;
 	width: 960px;
@@ -41,12 +41,20 @@ a {
 	clear: both;
 }
 
-#logo {
+#header {
+	float: left;
+}
+
+#wrapper {
+	width: 100%;
+}
+
+#container{
 	float: left;
 	margin: 0;
-	padding: 0px 0px 0px 10px;
-	width: 674px;
-	height: 122px;
+	width: 100%;
+	padding: 0px 0px;
+	background-color: #00307c;
 }
 
 #nav {
