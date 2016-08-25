@@ -34,7 +34,6 @@ a {
 
 #header {
 	background-image: url("images/bg_header.jpg"); 
-	background-size: initial;
 	height: 123px;
 	width: 960px;
 	margin: 0;
@@ -45,8 +44,8 @@ a {
 	float: left;
 	margin: 0;
 	padding: 0px 0px 0px 10px;
-	width: 104px;
-	height: 103px;
+	width: 674px;
+	height: 122px;
 }
 
 #nav {
