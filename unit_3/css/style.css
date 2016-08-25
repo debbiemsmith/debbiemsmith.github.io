@@ -33,11 +33,6 @@ a {
 }
 
 #headerwrapper {
-	background-image: url("images/bg_header.jpg"); 
-	height: 123px;
-	width: 960px;
-	margin: 0;
-	padding: 10px 0px;
 	clear: both;
 }
 
@@ -45,49 +40,46 @@ a {
 	float: left;
 }
 
-#wrapper {
-	width: 100%;
-}
-
-#container{
-	float: left;
-	margin: 0;
-	width: 100%;
-	padding: 0px 0px;
-	background-color: #00307c;
-}
-
 #nav {
 	float: right;
 }
 
+#container{
+	width: 100%;
+	padding: 0px 1px 0px 0px;
+	background-color: #00307c;
+}
+
+#wrapper {
+	width: 100%;
+}
+
 ul.smallnav {
 	list-style-type: none;
-	display: inline-block;
 	margin: 0;
-	padding: 0;
+	padding: 90px 0px 2px 24px;
 	overflow: hidden;
 	background-color: #002868; 
-	float: right;
 }
 
 ul.smallnav li{
 	float: right;
-	margin: 0px 10px;
 }
 
 ul.smallnav li a {
+	display: inline-block;
 	text-align: center;
-	padding: 5px 10px;
+	padding: 5px 15px;
 	color: white;
 	font-family: Arial, sans-serif;
-	font-weight: 80x;
+	font-weight: 100x;
 	text-decoration: none;
 	font-style: none;
-	font-size: 85%;
+	font-size: 11px;
 }
 
 ul.headnav {
+	clear: both;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
