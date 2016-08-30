@@ -58,6 +58,10 @@ div {
 	width: 685px;
 }
 
+#global_nav_header img {
+	margin-top: 5px;
+}
+
 #global_nav_links {
 	color: white;
 	float: left;
