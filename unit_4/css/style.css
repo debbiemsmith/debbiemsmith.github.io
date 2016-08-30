@@ -72,7 +72,7 @@ div {
 	width: 350px;
 }
 
-#global_nav_links_icons a:link, {
+#global_nav_links_icons a:link {
 	color: white;
 	text-decoration: none;
 }
