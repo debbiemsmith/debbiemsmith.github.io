@@ -155,15 +155,15 @@ div {
 .main_nav_menu ul.main_nav_dropmenu li {
 	color: white;
 	font-family: Arial;
-	font-weight: 600;
+	font-weight: 400;
 }
 
 #main_nav a.main_nav_link {
 	color: white;
 	font-size: 12px;
-	font-weight: 600;
-	height: 33px;
-	padding: 17px 14px 0;
+	font-weight: 400;
+	height: 40x;
+	padding: 12px 17px 0;
 }
 
 .main_nav_menu ul.main_nav_dropmenu li a {
