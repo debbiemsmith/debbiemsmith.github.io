@@ -1,3 +1,7 @@
+<style>
+@import 'https://fonts.googleapis.com/css?family=Cinzel:700';
+</style>
+
 body {
 	background-color: #f2f2f2;
 	background-size: cover;
@@ -69,7 +73,7 @@ div {
 #global_nav_header h1 {
 	color: white;
 	font-size: 35px;
-	font-family: Garamond;
+	font-family: 'Cinzel', serif;
 	float: left;
 	padding: 10px 20px;
 	z-index: 2000;
