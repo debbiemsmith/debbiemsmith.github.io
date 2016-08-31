@@ -47,7 +47,7 @@ div {
 
 #global_nav {
 	background-color: #002868;
-	background: url("images/bg_header.jpg");
+	background: url(images/bg_header.jpg);
 	background-image: url("images/bg_header.jpg");
 	height: 130px;
 	width: 1080px;
