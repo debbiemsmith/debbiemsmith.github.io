@@ -67,21 +67,24 @@ div {
 }
 
 #global_nav_header h1 {
-	color: pink;
-	font-family: Arial;
+	color: white;
+	font-size: 30px;
+	font-family: Garamond;
 	float: left;
 	padding: 10px 10px;
 	z-index: 2000;
 }
 
 #global_nav_header h3 {
-	color: yellow;
+	color: white;
 	font-family: Arial;
+	font-weight: normal;
+	font-style: italic;
 	float: left;
 	padding: 10px 10px;
 	z-index: 2000;
-	margin-top: 25px;
-	margin-left: 125px;
+	margin-top: -59px;
+	margin-left: -278px;
 }
 
 #global_nav_links_icons {
