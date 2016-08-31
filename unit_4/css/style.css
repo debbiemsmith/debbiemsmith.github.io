@@ -70,6 +70,14 @@ div {
 	color: pink;
 	font-family: Arial;
 	float: left;
+	padding: 10px 10px;
+	z-index: 2000;
+}
+
+#global_nav_header h3 {
+	color: yellow;
+	font-family: Arial;
+	float: left;
 	padding: 5px 5px;
 	z-index: 2000;
 }
