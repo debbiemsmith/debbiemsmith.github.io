@@ -48,8 +48,9 @@ div {
 #global_nav {
 	background-color: #002868;
 	background: url(http://www.fedbar.org/images/bg_header.jpg) repeat top;
+	background-size: 1080px 124px;
 	height: 124px;
-	width: 1080px;
+	width: 100%;
 	margin: 0px;
 }
 
