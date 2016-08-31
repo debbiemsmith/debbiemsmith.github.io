@@ -52,7 +52,7 @@ div {
 	height: 124px;
 	width: 100%;
 	margin: 0px;
-	z-index: 500;
+	z-index: -1;
 }
 
 #global_nav_header {
