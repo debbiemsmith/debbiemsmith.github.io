@@ -71,11 +71,12 @@ div {
 	width: 350px;
 	padding: 5px 5px;
 	margin: -105px 0 0 125px;
-	z-index: 1000;
+	z-index: 2000;
 }
 
 #text_header h1 {
 	color: pink;
+	z-index: 2000;
 }
 
 #global_nav_links_icons {
