@@ -220,3 +220,21 @@ ul#newslinks li a {
 	font-size: 13px;
 }
 
+#events {
+	border: 2px solid #002868;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 75px;
+	width: 325px;
+	height: 200px;
+	padding: 5px 20px 5px;
+	background-color: white;
+}
+
+ul#eventlinks li a {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 13px;
+}
