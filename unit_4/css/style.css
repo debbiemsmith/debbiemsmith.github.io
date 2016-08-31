@@ -68,10 +68,10 @@ div {
 
 #global_nav_header h1 {
 	color: white;
-	font-size: 30px;
+	font-size: 35px;
 	font-family: Garamond;
 	float: left;
-	padding: 10px 10px;
+	padding: 10px 20px;
 	z-index: 2000;
 }
 
@@ -81,10 +81,10 @@ div {
 	font-weight: normal;
 	font-style: italic;
 	float: left;
-	padding: 10px 10px;
+	padding: 10px 20px;
 	z-index: 2000;
-	margin-top: -59px;
-	margin-left: -278px;
+	margin-top: 63px;
+	margin-left: -535px;
 }
 
 #global_nav_links_icons {
