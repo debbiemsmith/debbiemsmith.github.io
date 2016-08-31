@@ -207,7 +207,7 @@ div {
 	padding: 0px 10px 10px;
 }
 
-#form_entry a.form_entry_h1 {
+#form_entry .form_entry_h1 {
 	font-family: Arial, sans-serif;
 	font-weight: bold;
 	text-transform: uppercase;
