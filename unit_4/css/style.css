@@ -95,6 +95,7 @@ div {
 
 .topnavigation {
 	background-color: #696969;
+	position: absolute;
 	float: left;
 	height: 50px;
 	width: 100%;
