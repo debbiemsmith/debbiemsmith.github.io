@@ -209,9 +209,9 @@ div {
 
 #form_entry a.form_entry_link {
 	color: black;
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 600;
-	padding: 12px 17px 0;
+	padding: 0px 0px;
 }
 
 .midbody {
