@@ -156,6 +156,7 @@ div {
 .first {
 	background-color: #f2f2f2;
 	width: 100%;
+	margin: 50px 10px;
 	height: 345px;
 }
 
