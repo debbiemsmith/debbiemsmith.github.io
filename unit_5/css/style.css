@@ -52,6 +52,7 @@ div {
 	height: 124px;
 	width: 100%;
 	margin: 0px;
+	z-index: 500;
 }
 
 #global_nav_header {
