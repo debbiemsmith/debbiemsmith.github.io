@@ -125,12 +125,12 @@ div {
 	background-color: #696969;
 	position: absolute;
 	float: left;
-	height: 50px;
+	height: 40px;
 	width: 100%;
 }
 
 #main_nav {
-	height: 50px;
+	height: 40px;
 	margin: 0 auto;
 	width: 980px;
 }
@@ -149,7 +149,7 @@ div {
 	margin: 0;
 	padding: 0;
 	background-color: #696969;
-	height: 50px;
+	height: 40px;
 }
 
 .main_nav_menu ul.main_nav_dropmenu li {
