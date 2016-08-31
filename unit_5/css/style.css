@@ -61,7 +61,8 @@ div {
 }
 
 #global_nav_header img {
-	margin-top: 0px;
+	margin-top: 2px;
+	margin-left: 2px;
 }
 
 #global_nav_links_icons {
