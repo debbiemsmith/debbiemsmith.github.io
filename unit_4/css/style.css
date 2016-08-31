@@ -50,7 +50,7 @@ div {
 	background: url(http://www.fedbar.org/images/bg_header.jpg) repeat top;
 	height: 130px;
 	width: 1080px;
-	margin: 0 0 0 2px;
+	margin: 0px;
 }
 
 #global_nav_header {
@@ -60,7 +60,7 @@ div {
 }
 
 #global_nav_header img {
-	margin-top: 0x;
+	margin-top: 0px;
 }
 
 #global_nav_links_icons {
