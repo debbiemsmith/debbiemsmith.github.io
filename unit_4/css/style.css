@@ -77,6 +77,12 @@ div {
 
 #text_header h1 {
 	color: pink;
+	font-family: Arial;
+	float: left;
+	height: 80px;
+	width: 350px;
+	padding: 0;
+	position: relative;
 	z-index: 2000;
 }
 
