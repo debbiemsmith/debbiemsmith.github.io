@@ -74,6 +74,10 @@ div {
 	z-index: 1000;
 }
 
+#text_header h1 {
+	color: pink;
+}
+
 #global_nav_links_icons {
 	color: white;
 	float: left;
