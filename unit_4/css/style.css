@@ -78,8 +78,10 @@ div {
 	color: yellow;
 	font-family: Arial;
 	float: left;
-	padding: 5px 5px;
+	padding: 10px 10px;
 	z-index: 2000;
+	margin-top: 25px;
+	margin-left: 125px;
 }
 
 #global_nav_links_icons {
