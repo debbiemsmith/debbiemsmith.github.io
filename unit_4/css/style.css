@@ -106,7 +106,7 @@ div {
 }
 
 #main_nav, .main_nav_menu {
-	position: relative;
+	position: absolute;
 	z-index: 1000;
 }
 
