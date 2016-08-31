@@ -91,7 +91,7 @@ div {
 #global_nav_link_iconJ, #global_nav_link_iconL, #global_nav_link_iconN, #global_nav_link_iconA {
 	height: 38px;
 	position: relative;
-	z-index: 100;
+	z-index: 1000;
 	text-align: center;
 }
 
