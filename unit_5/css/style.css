@@ -258,15 +258,18 @@ ul#eventlinks li a {
 }
 
 footer {
-	height: 40px;
+	height: 50px;
+}
+
+.contact_footer {
 	background: rgba(255, 255, 255, 0.6);
 }
 
 #contact {
 	float: left;
-	width: 150px;
+	width: 350px;
 	padding: 1px;
-	margin: 1px 10px;
+	margin: 5px;
 }
 
 #contact_icons {
