@@ -42,6 +42,11 @@ div {
 	display: block;
 }
 
+#wrapper {
+	background-color:white;
+	width:1024px;
+}
+
 .header {
 	background-color: #002868;
 	width: 105%;
