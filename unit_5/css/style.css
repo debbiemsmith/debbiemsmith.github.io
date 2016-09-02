@@ -267,14 +267,14 @@ footer {
 
 #contact {
 	float: left;
-	width: 350px;
+	width: 250px;
 	padding: 1px;
-	margin: 5px;
+	margin: 0px 5px;
 }
 
 #contact_icons {
 	float: left;
-	width: 100px;
+	width: 105px;
 	padding: 1px;
-	margin: 1px 20px;
+	margin: 9px 5px 9px 675px;
 }
