@@ -257,6 +257,16 @@ ul#eventlinks li a {
 	font-size: 13px;
 }
 
+#adspace {
+	float: left;
+	border: 4px solid #002868;
+	padding: 15px;
+	margin: 40px 0px;
+	width: 250px;
+	height: 225px;
+	background-color: pink;
+}
+
 footer {
 	height: 50px;
 	background: rgba(211,211,211,0.3);
