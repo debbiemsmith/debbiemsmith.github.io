@@ -259,8 +259,8 @@ ul#eventlinks li a {
 
 footer {
 	float: center;
-	padding: 2px 2px;
-	margin: 5px 5px;
+	padding: 1px 1px;
+	margin: 2px 2px;
 	height: 20px;
 	background: rgba(255, 255, 255, 0.6);
 }
