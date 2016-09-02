@@ -137,7 +137,7 @@ div {
 #main_nav {
 	height: 40px;
 	margin: 0 auto;
-	width: 980px;
+	width: 100%;
 }
 
 #main_nav, .main_nav_menu {
@@ -183,7 +183,7 @@ div {
 	float: left;
 	min-width: 175px;
 	text-align: left;
-	width: 105%;
+	width: 100%;
 }
 
 .topbody {
