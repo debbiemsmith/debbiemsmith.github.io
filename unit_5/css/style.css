@@ -260,7 +260,7 @@ ul#eventlinks li a {
 footer {
 	float: center;
 	padding: 2px 2px;
-	margin: 10px 10px;
+	margin: 5px 5px;
 	height: 20px;
-	background-color: rgba(255, 255, 255, 0.6);
+	background: rgba(255, 255, 255, 0.6);
 }
