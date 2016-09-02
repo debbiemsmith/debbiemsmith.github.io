@@ -259,10 +259,7 @@ ul#eventlinks li a {
 
 footer {
 	height: 50px;
-}
-
-.contact_footer {
-	background: rgba(255, 255, 255, 0.6);
+	background: rgba(211,211,211,0.3);
 }
 
 #contact {
