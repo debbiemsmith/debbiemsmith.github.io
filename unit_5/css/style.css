@@ -269,6 +269,13 @@ ul#eventlinks li a {
 	margin: 0 auto;
 }
 
+h1#tagline {
+	font-family: Arial;
+	font-style: italic;
+	font-size: 1em;
+	border-bottom: 4px dashed black;
+}
+
 footer {
 	height: 50px;
 	background: rgba(211,211,211,0.3);
