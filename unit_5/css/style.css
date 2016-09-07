@@ -22,14 +22,6 @@ h3 {
 	color: #002868;
 }
 
-.fbatagline h3 {
-	color: white;
-	font-family: Arial;
-	font-weight: normal;
-	font-style: italic;
-	font-size: 12px;
-}
-
 p {
 	font-family: Arial, monospace;
 	font-size: 12px;
@@ -102,7 +94,7 @@ header {
 	z-index: 2000;
 }
 
-#global_nav_header h5 {
+#global_nav_header h3 {
 	color: white;
 	font-family: Arial;
 	font-weight: normal;
