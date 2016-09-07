@@ -289,10 +289,17 @@ h3#tagline {
 }
 
 .lowerbody {
-	background-color: darkgrey;
-	height: 425px;
+	background-color: white;
+	height: 450px;
 	margin: 0px;
 }
+
+#testimonials {
+	background-color: white;
+	height: 25px;
+	margin: 0px;
+}
+
 
 footer {
 	height: 50px;
