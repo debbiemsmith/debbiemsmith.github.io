@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Cinzel:700);
 
 body {
-	background-color: white;
+	background-color: #f2f2f2;
 	background-size: cover;
 }
 
@@ -43,9 +43,17 @@ div {
 }
 
 #wrapper {
-	background:white;
 	width:1080px;
 	margin: 0 auto;
+	border-right-color: white;
+	border-right-style: solid;
+	border-right-width: 10px;
+	border-left-color: white;
+	border-left-style: solid;
+	border-left-width: 10px;
+	border-bottom-color: white;
+	border-bottom-style: solid;
+	border-bottom-width: 10px;
 }
 
 header {
@@ -281,6 +289,7 @@ h1#tagline {
 footer {
 	height: 50px;
 	background: rgba(211,211,211,0.3);
+	border: 1px solid darkgrey;
 }
 
 #contact {
