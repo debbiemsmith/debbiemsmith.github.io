@@ -290,16 +290,24 @@ h3#tagline {
 
 .lowerbody {
 	background-color: white;
-	height: 450px;
+	height: 475px;
 	margin: 0px;
 }
 
 #testimonials {
 	background-color: white;
-	height: 25px;
+	height: 50px;
 	margin: 0px;
 }
 
+h3#member_ts {
+	color: #002868;
+	font-size: 35px;
+	font-weight: bold;
+	font-family: 'Oswald', serif;
+	float: center;
+	padding: 1px;
+}
 
 footer {
 	height: 50px;
