@@ -288,6 +288,12 @@ h3#tagline {
 	border-bottom: 4px dashed black;
 }
 
+.lowerbody {
+	background-color: white;
+	height: 375px;
+	margin: 0px;
+}
+
 footer {
 	height: 50px;
 	background: rgba(211,211,211,0.3);
