@@ -197,16 +197,16 @@ nav {
 
 #img-carousel {
 	float:left;
-	margin: 5px 15px 10px 50px;
+	margin: 25px 15px 10px 90px;
 }
 
 #form_entry {
 	float: left;
 	border: 4px solid #002868;
 	background-color: rgba(255, 255, 255, 0.9);
-	margin: 5px 15px 10px 70px;
+	margin: 25px 15px 10px 95px;
 	width: 275px;
-	height: 275px;
+	height: 250px;
 	padding: 0px 5px 10px;
 }
 
@@ -235,10 +235,10 @@ nav {
 #news {
 	float: left;
 	border: 4px solid #002868;
-	width: 250px;
+	width: 225px;
 	height: 225px;
 	padding: 15px;
-	margin: 30px 35px 30px 50px;
+	margin: 30px 48px 30px 90px;
 	background-color: white;
 }
 
@@ -253,8 +253,8 @@ ul#newslinks li a {
 	float: left;
 	border: 4px solid #002868;
 	padding: 15px;
-	margin: 30px 35px 30px 0px;
-	width: 250px;
+	margin: 30px 48px 30px 0px;
+	width: 225px;
 	height: 225px;
 	background-color: white;
 }
@@ -271,7 +271,7 @@ ul#eventlinks li a {
 	border: 4px solid #002868;
 	padding: 15px;
 	margin: 30px 50px 30px 0px;
-	width: 250px;
+	width: 225px;
 	height: 225px;
 	background-color: white;
 }
