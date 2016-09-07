@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Cinzel:700);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
 
 body {
 	background-color: #f2f2f2;
@@ -15,7 +16,7 @@ h1 {
 }
 
 h3 {
-	font-family: Georgia; sans-serif;
+	font-family: 'Oswald', serif;
 	font-weight: bold;
 	font-size: 12px;
 	color: #002868;
@@ -208,7 +209,7 @@ nav {
 	padding: 0px 5px 10px;
 }
 
-#form_entry .form_entry_h1 {
+#form_entry .form_entry_h3 {
 	font-family: Arial, sans-serif;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -279,7 +280,7 @@ ul#eventlinks li a {
 	margin: 0 auto;
 }
 
-h1#tagline {
+h3#tagline {
 	font-family: Arial;
 	font-style: italic;
 	font-size: 1em;
