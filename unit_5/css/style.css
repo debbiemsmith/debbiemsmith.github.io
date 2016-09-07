@@ -238,7 +238,7 @@ nav {
 	width: 250px;
 	height: 225px;
 	padding: 15px;
-	margin: 30px 35px 40px 50px;
+	margin: 30px 35px 30px 50px;
 	background-color: white;
 }
 
@@ -253,7 +253,7 @@ ul#newslinks li a {
 	float: left;
 	border: 4px solid #002868;
 	padding: 15px;
-	margin: 30px 35px 40px 0px;
+	margin: 30px 35px 30px 0px;
 	width: 250px;
 	height: 225px;
 	background-color: white;
@@ -270,7 +270,7 @@ ul#eventlinks li a {
 	float: left;
 	border: 4px solid #002868;
 	padding: 15px;
-	margin: 30px 50px 40px 0px;
+	margin: 30px 50px 30px 0px;
 	width: 250px;
 	height: 225px;
 	background-color: white;
@@ -289,15 +289,15 @@ h3#tagline {
 }
 
 .lowerbody {
-	background-color: white;
-	height: 375px;
+	background-color: darkgrey;
+	height: 325px;
 	margin: 0px;
 }
 
 footer {
 	height: 50px;
 	background: rgba(211,211,211,0.3);
-	border: 1px solid darkgrey;
+	border: 1px solid teal;
 }
 
 #contact {
