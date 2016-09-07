@@ -97,6 +97,7 @@ header {
 #global_nav_header h3 {
 	color: white;
 	font-family: Arial;
+	font-size: 12px;
 	font-weight: normal;
 	font-style: italic;
 	float: left;
