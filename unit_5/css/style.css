@@ -190,23 +190,23 @@ nav {
 
 .topbody {
 	background-color: #d8d8d8;
-	height: 425px;
+	height: 375px;
 	margin: 0px 0px;
 	border: 2px solid darkgrey;
 }
 
 #img-carousel {
 	float:left;
-	margin: 15px 15px 10px 50px;
+	margin: 5px 15px 10px 50px;
 }
 
 #form_entry {
 	float: left;
 	border: 4px solid #002868;
 	background-color: rgba(255, 255, 255, 0.9);
-	margin: 15px 15px 10px 70px;
+	margin: 5px 15px 10px 70px;
 	width: 275px;
-	height: 250px;
+	height: 275px;
 	padding: 0px 5px 10px;
 }
 
@@ -286,6 +286,12 @@ h3#tagline {
 	font-style: italic;
 	font-size: 1em;
 	border-bottom: 4px dashed black;
+}
+
+.midbody {
+	background-color: white;
+	height: 350px;
+	margin: 0px;
 }
 
 footer {
