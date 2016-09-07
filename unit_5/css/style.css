@@ -18,8 +18,16 @@ h1 {
 h3 {
 	font-family: 'Oswald', serif;
 	font-weight: bold;
-	font-size: 12px;
+	font-size: 18px;
 	color: #002868;
+}
+
+.fbatagline h3 {
+	color: white;
+	font-family: Arial;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 12px;
 }
 
 p {
