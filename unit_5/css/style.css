@@ -296,7 +296,7 @@ h3#tagline {
 #testimonials {
 	background-color: white;
 	height: 50px;
-	margin: 5px;
+	margin: 0px;
 }
 
 h3#member_ts {
@@ -305,7 +305,7 @@ h3#member_ts {
 	font-weight: bold;
 	font-family: 'Domine', serif;
 	text-align: center;
-	padding: 0px 0px 5px 0px;
+	padding: 5px;
 }
 
 #video {
