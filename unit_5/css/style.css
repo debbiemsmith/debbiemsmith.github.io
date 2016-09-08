@@ -206,7 +206,7 @@ nav {
 	background-color: rgba(255, 255, 255, 0.9);
 	margin: 25px 15px 10px 95px;
 	width: 275px;
-	height: 250px;
+	height: 245px;
 	padding: 0px 5px 10px;
 }
 
@@ -290,14 +290,14 @@ h3#tagline {
 
 .lowerbody {
 	background-color: white;
-	height: 475px;
+	height: 500px;
 	margin: 0px;
 }
 
 #testimonials {
 	background-color: white;
 	height: 50px;
-	margin: 0px;
+	margin: 5px;
 }
 
 h3#member_ts {
@@ -310,7 +310,7 @@ h3#member_ts {
 }
 
 #video {
-	margin: auto;
+	margin: 5px 90px;
 }
 
 footer {
