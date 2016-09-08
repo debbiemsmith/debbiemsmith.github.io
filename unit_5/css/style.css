@@ -309,6 +309,10 @@ h3#member_ts {
 	padding: 0px 0px 5px 0px;
 }
 
+#video {
+	margin: auto;
+}
+
 footer {
 	height: 50px;
 	background: rgba(211,211,211,0.3);
