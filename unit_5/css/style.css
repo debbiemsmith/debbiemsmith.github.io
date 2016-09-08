@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Domine:700);
-@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:500);
 
 body {
 	background-color: #f2f2f2;
@@ -16,7 +16,7 @@ h1 {
 }
 
 h3 {
-	font-family: 'Oswald', serif;
+	font-family: 'Domine', serif;
 	font-weight: bold;
 	font-size: 18px;
 	color: #002868;
@@ -30,7 +30,7 @@ p {
 
 a {
 	font-size: 11px;
-	font-family: Arial;
+	font-family: 'Fira Sans', sans-serif;
 	font-weight: bold;
 	color: black;
 }
@@ -118,7 +118,7 @@ header {
 
 #global_nav_links_icons a {
 	color: #f2f2f2;
-	font-family: Arial;
+	font-family: 'Fira-Sans', sans-serif;
 	text-decoration: none;
 	display: block;
 	float: left;
@@ -170,12 +170,12 @@ nav {
 
 .main_nav_menu ul.main_nav_dropmenu li {
 	color: white;
-	font-family: Arial;
-	font-weight: 600;
+	font-family: 'Fira-Sans', sans-serif;
 }
 
 #main_nav a.main_nav_link {
 	color: white;
+	font-family: 'Fira-Sans', sans-serif;
 	font-size: 12px;
 	font-weight: 600;
 	height: 40x;
@@ -304,7 +304,7 @@ h3#member_ts {
 	color: #002868;
 	font-size: 35px;
 	font-weight: bold;
-	font-family: 'Oswald', serif;
+	font-family: 'Domine', serif;
 	text-align: center;
 	padding: 0px 0px 5px 0px;
 }
