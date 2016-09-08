@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Cinzel:700);
+@import url(https://fonts.googleapis.com/css?family=Domine:700);
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 
 body {
@@ -87,7 +87,7 @@ header {
 #global_nav_header h1 {
 	color: white;
 	font-size: 35px;
-	font-family: 'Cinzel', serif;
+	font-family: 'Domine', serif;
 	float: left;
 	padding: 1px;
 	margin: 30px 5px 0px 10px;
