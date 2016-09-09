@@ -328,7 +328,7 @@ h3#member_ts {
 #quote {
 	background: white;
 	width: 265px;
-	height: 245px;
+	height: 300px;
 	margin: 3em 6em 0em 0em;
 	padding: 5px;
 	float: right;
@@ -354,7 +354,17 @@ h3#member_ts {
 
 .right {
 	text-align: right;
-	padding: 10px;
+	padding: 1px;
+	margin: 5px 0 30px;
+}
+
+#quote a.join_link {
+	color: #0e307a;
+	font-size: 25px;
+	font-weight: 600;
+	font-family: Arial, sans-serif;
+	padding: 1px;
+	margin: 40px 10px 40px 50px;
 }
 
 footer {
