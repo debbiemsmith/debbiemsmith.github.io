@@ -223,6 +223,7 @@ nav {
 	font-size: 14px;
 	font-weight: 600;
 	padding: 0px 0px;
+	float: right;
 }
 
 .midbody {
@@ -301,11 +302,11 @@ h3#tagline {
 
 h3#member_ts {
 	color: #002868;
-	font-size: 35px;
+	font-size: 30px;
 	font-weight: bold;
 	font-family: 'Domine', serif;
 	text-align: center;
-	padding: 5px;
+	padding: 10px;
 }
 
 #video {
