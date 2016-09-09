@@ -355,16 +355,16 @@ h3#member_ts {
 .right {
 	text-align: right;
 	padding: 1px;
-	margin: 5px 0 30px;
+	margin: 5px 0 35px;
 }
 
 #quote a.join_link {
 	color: #0e307a;
-	font-size: 25px;
+	font-size: 18px;
 	font-weight: 600;
 	font-family: Arial, sans-serif;
 	padding: 1px;
-	margin: 40px 10px 40px 50px;
+	margin: 40px 10px 40px 75px;
 }
 
 footer {
