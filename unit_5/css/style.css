@@ -85,9 +85,10 @@ header {
 
 #global_nav_header h1 {
 	color: white;
-	font-size: 35px;
+	font-size: 33px;
 	font-family: 'Domine', serif;
 	float: left;
+	letter-spacing: .01em;
 	padding: 1px;
 	margin: 30px 5px 0px 10px;
 	z-index: 2000;
@@ -109,7 +110,7 @@ header {
 	color: white;
 	float: left;
 	height: 38px;
-	margin: 4em 0em;
+	margin: 4em -1em;
 	padding: 15px 0 0;
 	width: 350px;
 	z-index: 1000;
@@ -157,13 +158,16 @@ nav {
 	margin: 0;
 	padding: 0;
 	width: 1076px;
-	border: 2px solid #595959;
+    border-left: 2px solid #474747;
+    border-right: 2px solid #474747;
+    border-top: 2px solid #474747;
+    border-bottom: 2px solid #909090;
 }
 
 .main_nav_menu ul.main_nav_dropmenu {
 	margin: 0;
 	padding: 0;
-	background-color: #696969;
+	background-color: #474747;
 	height: 40px;
 }
 
@@ -188,10 +192,10 @@ nav {
 }
 
 .topbody {
-	background-color: #d8d8d8;
+	background-color: #e3e3e3;
 	height: 375px;
 	margin: 0px 0px;
-	border: 2px solid darkgrey;
+	border: 2px solid #e3e3e3;
 }
 
 #img-carousel {
@@ -201,8 +205,8 @@ nav {
 
 #form_entry {
 	float: left;
-	border: 4px solid #002868;
-	background-color: rgba(255, 255, 255, 0.9);
+	border: 4px solid #0e307a;
+	background-color: white;
 	margin: 25px 10px 25px 100px;
 	width: 250px;
 	height: 225px;
@@ -233,7 +237,7 @@ nav {
 }
 
 .midbody {
-	background-color: #000080;
+	background-color: #0e307a;
 	height: 325px;
 	margin-bottom: -2em;
 }
@@ -308,8 +312,9 @@ h3#tagline {
 
 h3#member_ts {
 	color: #002868;
-	font-size: 30px;
+	font-size: 28px;
 	font-weight: bold;
+	letter-spacing: .05em;
 	font-family: 'Domine', serif;
 	text-align: center;
 	padding: 10px;
@@ -331,21 +336,25 @@ h3#member_ts {
 
 #quote p {
 	font-family: georgia, serif; 
-	font-size: 23px;
-	line-height: 1.4em;
+	font-style: italic;
+	font-size: 22px;
+	line-height: 1em;
 }
 
 .quotetype {
 	font-variant: small-caps;
 	letter-spacing: .25em;
 	font-family: Tahoma, sans-serif;
-	font-size: 30px;
-	line-height: 1.2em;
-	padding: .2em;
+	font-style: normal;
+	color: #092155;
+	font-size: 27px;
+	line-height: 1.8em;
+	padding: .1em;
 }
 
 .right {
 	text-align: right;
+	padding: 10px;
 }
 
 footer {
