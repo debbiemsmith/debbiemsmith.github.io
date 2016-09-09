@@ -203,26 +203,32 @@ nav {
 	float: left;
 	border: 4px solid #002868;
 	background-color: rgba(255, 255, 255, 0.9);
-	margin: 25px 15px 10px 95px;
-	width: 275px;
-	height: 245px;
-	padding: 0px 5px 10px;
+	margin: 25px 10px 25px 100px;
+	width: 250px;
+	height: 225px;
+	padding: 5px 15px 25px 15px;
+}
+
+.blueline_divider {
+    width: 100%;
+   	margin: 20px 0;
+    border: 2px solid #002868;
 }
 
 #form_entry .form_entry_h3 {
-	font-family: Arial, sans-serif;
-	font-weight: bold;
+	font-family: 'Domine', serif;
+	font-weight: bolder;
 	text-transform: uppercase;
 	text-decoration: none;
-	font-size: 14px;
+	font-size: 16px;
 	color: #002868;
 }
 
 #form_entry a.form_entry_link {
 	color: black;
 	font-size: 14px;
-	font-weight: 600;
-	padding: 0px 0px;
+	font-weight: bold;
+	padding: 0px;
 	float: right;
 }
 
