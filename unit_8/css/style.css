@@ -47,7 +47,7 @@ div {
 }
 
 #wrapper {
-	width:1080px;
+	width:80%;
 	margin: 0 auto;
 	border-right-color: white;
 	border-right-style: solid;
@@ -66,19 +66,19 @@ header {
 
 #global_nav {
 	background-color: #002868;
-	background: url(http://www.fedbar.org/images/bg_header.jpg) repeat top;
-	background-size: 1080px 124px;
+	background: url(http://www.fedbar.org/images/bg_header.jpg) repeat;
+	background-size: 100%;
 	height: 124px;
-	margin: 0px;
+	margin: 0;
 	z-index: -1;
-	border: 2px solid darkblue;
+	width: 80%;
 }
 
 #global_nav_header {
 	float: left;
 	padding: 0px;
-	width: 685px;
-	height: 124px;
+	width: 63%;
+	height: 11%;
 }
 
 #global_nav_header img {
@@ -113,10 +113,9 @@ header {
 #global_nav_links_icons {
 	color: white;
 	float: left;
-	height: 38px;
-	margin: 4em -1em;
-	padding: 15px 0 0;
-	width: 350px;
+	margin: 4em -1em 0em;
+	padding: 1em 0.5em;
+	width: 32%;
 	z-index: 1000;
 }
 
@@ -126,8 +125,8 @@ header {
 	text-decoration: none;
 	display: block;
 	float: left;
-	height: 38px;
-	margin: 0 0 0 23px;
+	height: 3em;
+	margin: 0 0 0 2em;
 	padding: 0;
 	position: relative;
 	top: 0;
@@ -135,22 +134,23 @@ header {
 }
 
 #global_nav_link_iconJ, #global_nav_link_iconL, #global_nav_link_iconN, #global_nav_link_iconA {
-	height: 38px;
+	height: 3em;
 	position: relative;
 	z-index: 1000;
 	text-align: center;
 }
 
 nav {
-	background-color: #696969;
 	position: absolute;
 	float: left;
-	height: 40px;
+	height: 2.5em;
+	width: 79%;
 }
 
 #main_nav {
-	height: 40px;
-	margin: 0 auto;
+	height: 2.4em;
+	width: 79%;
+	margin: 0 -0.1em 0 0.35em;
 }
 
 #main_nav, .main_nav_menu {
@@ -159,20 +159,18 @@ nav {
 }
 
 .main_nav_menu {
-	margin: 0;
+	margin: 0 -0.3em;
 	padding: 0;
-	width: 1076px;
-    border-left: 2px solid #474747;
-    border-right: 2px solid #474747;
-    border-top: 2px solid #474747;
-    border-bottom: 2px solid #909090;
+	width: 100%;
+	height: 2.5em;
 }
 
 .main_nav_menu ul.main_nav_dropmenu {
-	margin: 0;
-	padding: 0;
+	margin: -0.05em;
+	padding: 0.05em 0.35em 0.05em 0em;
 	background-color: #474747;
-	height: 40px;
+	height: 2.4em;
+	width: 100%;
 }
 
 .main_nav_menu ul.main_nav_dropmenu li {
@@ -183,10 +181,10 @@ nav {
 #main_nav a.main_nav_link {
 	color: white;
 	font-family: Arial, sans-serif;
-	font-size: 12px;
+	font-size: 0.8em;
 	font-weight: 600;
-	height: 40x;
-	padding: 12px 17px 0;
+	height: 1em;
+	padding: 1em;
 }
 
 .main_nav_menu ul.main_nav_dropmenu li a {
