@@ -10,25 +10,25 @@ h1 {
 	font-weight: bold;
 	text-transform: uppercase;
 	text-decoration: none;
-	font-size: 18px;
+	font-size: 1em;
 	color: #002868;
 }
 
 h3 {
 	font-family: 'Domine', serif;
 	font-weight: bold;
-	font-size: 18px;
+	font-size: 1em;
 	color: #002868;
 }
 
 p {
 	font-family: Arial, monospace;
-	font-size: 12px;
+	font-size: 0.75em;
 }
 
 
 a {
-	font-size: 11px;
+	font-size: 0.7em;
 	font-family: Arial, sans-serif;
 	font-weight: bold;
 	color: black;
@@ -68,17 +68,16 @@ header {
 	background-color: #002868;
 	background: url(http://www.fedbar.org/images/bg_header.jpg) repeat;
 	background-size: 100%;
-	height: 124px;
+	height: 8em;
 	margin: 0;
 	z-index: -1;
-	width: 80%;
+	width: 100%;
 }
 
 #global_nav_header {
 	float: left;
-	padding: 0px;
+	padding: 0;
 	width: 63%;
-	height: 11%;
 }
 
 #global_nav_header img {
@@ -89,7 +88,7 @@ header {
 
 #global_nav_header h1 {
 	color: white;
-	font-size: 1.8em;
+	font-size: 1.7em;
 	font-family: 'Domine', serif;
 	float: left;
 	letter-spacing: .01em;
@@ -101,7 +100,7 @@ header {
 #global_nav_header h3 {
 	color: white;
 	font-family: Arial;
-	font-size: 0.8em;
+	font-size: 0.75em;
 	font-weight: normal;
 	font-style: italic;
 	float: left;
@@ -113,9 +112,9 @@ header {
 #global_nav_links_icons {
 	color: white;
 	float: left;
-	margin: 4em -1em 0em;
+	margin: 3em -0.25em 0;
 	padding: 1em 0.5em;
-	width: 32%;
+	width: 35%;
 	z-index: 1000;
 }
 
@@ -200,16 +199,22 @@ nav {
 	padding: 1em 0 0 0;
 }
 
+#carousel {
+	float: left;
+	margin: 2em 1em 1em 8em;
+	width: 50%;
+}
+
 #img-carousel {
 	float:left;
-	margin: 3em 8em;
+	margin: 0.5em;
 }
 
 #form_entry {
 	float: left;
 	border: 0.25em solid #0e307a;
 	background-color: white;
-	margin: 2em 2.5em;
+	margin: 2em 3em;
 	width: 17%;
 	padding: 0.5em 1em;
 }
@@ -301,45 +306,50 @@ h3#tagline {
 
 .lowerbody {
 	background-color: white;
-	height: 450px;
-	margin: 0px;
+	height: 28em;
+	margin: 0;
 }
 
 #testimonials {
 	background-color: white;
-	height: 50px;
-	margin: 0px;
+	height: 3em;
+	margin: 0.1em 0;
+	width: 100%;
 }
 
 h3#member_ts {
 	color: #002868;
-	font-size: 28px;
+	font-size: 1.75em;
 	font-weight: bold;
 	letter-spacing: .05em;
 	font-family: 'Domine', serif;
 	text-align: center;
-	padding: 10px;
+	line-height: 1.5em;
+	margin-top: 1.5em;
+	margin-bottom: -0.5em;
+	padding: 0.25em;
 }
 
 #video {
-	margin: 5px 5px 5px 90px;
+	margin: 0.3em 0.3em 0.3em 5.5em;
 	float: left;
+	width: 50%;
 }
 
 #quote {
 	background: white;
-	width: 265px;
-	height: 300px;
-	margin: 3em 6em 0em 0em;
-	padding: 5px;
+	width: 19.5%;
+	height: 18em;
+	margin: 1em 12em 1em 0.5em;
+	padding: 0.5em;
 	float: right;
 }
 
 #quote p {
 	font-family: georgia, serif; 
 	font-style: italic;
-	font-size: 22px;
-	line-height: 1em;
+	font-size: 1.25em;
+	line-height: 1.5em;
 }
 
 .quotetype {
@@ -355,35 +365,35 @@ h3#member_ts {
 
 .right {
 	text-align: right;
-	padding: 1px;
-	margin: 5px 0 35px;
+	padding: 0.1em;
+	margin: 0.2em 0.1em 0.5em;
 }
 
 #quote a.join_link {
 	color: #0e307a;
-	font-size: 18px;
+	font-size: 1em;
 	font-weight: 600;
 	font-family: Arial, sans-serif;
-	padding: 1px;
-	margin: 40px 10px 40px 75px;
+	padding: 0.1em;
+	margin: 0.5em 3em;
 }
 
 footer {
-	height: 50px;
+	height: 3.5em;
 	background: rgba(211,211,211,0.3);
-	border: 1px solid darkgrey;
+	border: 0.1em solid darkgrey;
 }
 
 #contact {
 	float: left;
-	width: 250px;
-	padding: 1px;
-	margin: 0px 5px;
+	width: 15em;
+	padding: 0.1em;
+	margin: 0.5em;
 }
 
 #contact_icons {
 	float: left;
-	width: 105px;
-	padding: 1px;
-	margin: 8px 5px 9px 675px;
+	width: 6.5em;
+	padding: 0.5em;
+	margin: 0.3em 0 0 37em;
 }
