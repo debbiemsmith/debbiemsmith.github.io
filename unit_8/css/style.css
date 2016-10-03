@@ -51,13 +51,13 @@ div {
 	margin: 0 auto;
 	border-right-color: white;
 	border-right-style: solid;
-	border-right-width: 20px;
+	border-right-width: 1.5em;
 	border-left-color: white;
 	border-left-style: solid;
-	border-left-width: 20px;
+	border-left-width: 1.5em;
 	border-bottom-color: white;
 	border-bottom-style: solid;
-	border-bottom-width: 10px;
+	border-bottom-width: 1.5em;
 }
 
 header {
@@ -166,7 +166,7 @@ nav {
 
 .main_nav_menu ul.main_nav_dropmenu {
 	margin: -0.05em;
-	padding: 0.05em 0.35em 0.05em 0em;
+	padding: 0.05em 0.01em 0.05em 0em;
 	background-color: #474747;
 	height: 2.4em;
 	width: 100%;
