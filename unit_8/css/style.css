@@ -200,7 +200,8 @@ nav {
 
 #carousel {
 	float: left;
-	margin: 2em 5em 1em 5.5em;
+	margin: 2em 3.5em 1em 5.5em;
+	width: 28em;
 }
 
 #img-carousel {
@@ -215,7 +216,7 @@ nav {
 	background-color: white;
 	height: 14em;
 	width: 15em;
-	margin: 2em 5.5em 1em 5em;
+	margin: 2em 5.5em 1em 6em;
 	padding: 0.5em 1em;
 }
 
@@ -235,6 +236,27 @@ nav {
 	padding: 0;
 	float: right;
 }
+
+@media only screen and (max-width: 1482px) {
+	#carousel {
+		width: 24em;
+	}
+
+	#img-carousel {
+		width: 35em;
+	}
+}
+
+@media only screen and (max-width: 1482px) {
+	#carousel {
+		width: 24em;
+	}
+
+	#img-carousel {
+		width: 35em;
+	}
+}
+
 
 .midbody {
 	background-color: #0e307a;
@@ -286,20 +308,29 @@ ul#eventlinks li a {
 	background-color: white;
 }
 
+#img_company_a {
+	float: left;
+	width: 14em;
+}
+
 @media only screen and (max-width: 1575px) {
+	#form_entry {
+		margin: 2em 6.25em 1em 0.75em;
+	}
+
 	#news {
 		width: 12em;
-		margin: 2em 0.25em 2em 5.5em;
+		margin: 2em 1.5em 2em 5.5em;
 	}
 
 	#events {
 		width: 12em;
-		margin: 2em 0.25em;
+		margin: 2em 1.55em;
 	}
 
 	#adspace {
 		width: 12em;
-		margin: 2em 5.5em 2em 0.25em;
+		margin: 2em 5.5em 2em 1.5em;
 	}
 }
 
