@@ -60,6 +60,13 @@ div {
 	border-bottom-width: 1.5em;
 }
 
+@media only screen and (max-width: 1389px) {
+	#wrapper {
+	width: 75%;
+	}
+}
+
+
 header {
 	background-color: #002868;
 }
@@ -74,9 +81,9 @@ header {
 	width: 100%;
 }
 
-@media only screen and (max-width: 1389px) {
+@media only screen and (max-width: 1289px) {
 	#global_nav {
-		background: url(http://www.fedbar.org/images/bg_header.jpg) no-repeat;
+		background: url(http://www.fedbar.org/images/bg_header.jpg) no-repeat;	
 	}
 }
 
@@ -178,6 +185,17 @@ nav {
 	padding: 0;
 	width: 100%;
 	height: 2.5em;
+}
+
+@media only screen and (max-width: 1389px) {
+	#main_nav {
+		width: 74.15%;
+		margin: 0;
+	}
+
+	.main_nav_menu {
+		margin: 0;
+	}
 }
 
 .main_nav_menu ul.main_nav_dropmenu {
@@ -335,6 +353,21 @@ nav {
 	#img-carousel {
 		width: 31em;
 		margin: 2em 1em 1em -4em;
+	}
+}
+
+@media only screen and (max-width: 1289px) {
+	#carousel {
+		width: 25em;
+	}
+
+	#img-carousel {
+		width: 39em;
+		margin: 0 3.5em 0 -3.5em;
+	}
+
+	#form_entry {
+		margin: 2em 2em 1em 4em;
 	}
 }
 
@@ -512,6 +545,23 @@ ul#eventlinks li a {
 	}
 }
 
+@media only screen and (max-width: 1289px) {
+	#news {
+		width: 13em;
+		margin: 2em 1.75em 2em 2em;
+	}
+
+	#events {
+		width: 13em;
+		margin: 2em 1.75em;
+	}
+
+	#adspace {
+		width: 13em;
+		margin: 2em 2em 2em 1.75em;
+	}
+}
+
 #adspace img {
 	display: block;
 	margin: 0 auto;
@@ -562,6 +612,16 @@ h3#member_ts {
 	margin: 3em 8em 0em 0em;
 	padding: 0.5em;
 	float: right;
+}
+
+@media only screen and (max-width: 1289px) {
+	#video {
+		margin: 0.3em 0 0.3em 3.5em;
+	}
+
+	#quote {
+		margin: 3em 5em 0 0;
+	}
 }
 
 #quote p {
