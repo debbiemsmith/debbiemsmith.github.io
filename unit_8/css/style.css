@@ -74,6 +74,12 @@ header {
 	width: 100%;
 }
 
+@media only screen and (max-width: 1389px) {
+	#global_nav {
+		background: url(http://www.fedbar.org/images/bg_header.jpg) no-repeat;
+	}
+}
+
 #global_nav_header {
 	float: left;
 	padding: 0;
@@ -289,6 +295,27 @@ nav {
 	}
 }
 
+@media only screen and (max-width: 1389px) {
+	#form_entry {
+		margin: 2em 5.5em 1em 2.5em;
+	}
+}
+
+@media only screen and (max-width: 1366px) {
+	#carousel {
+		width: 25em;
+	}
+
+	#img-carousel {
+		width: 32em;
+		margin: 2em 0em 1em;
+	}
+
+	#form_entry {
+		margin: 2em 5.5em 1em -1.25em;
+	}
+}
+
 .midbody {
 	background-color: #0e307a;
 	height: 20em;
@@ -392,6 +419,40 @@ ul#eventlinks li a {
 	#adspace {
 		width: 12em;
 		margin: 2em 5.5em 2em 1em;
+	}
+}
+
+@media only screen and (max-width: 1389px) {
+	#news {
+		width: 12em;
+		margin: 2em 0.75em 2em 5.5em;
+	}
+
+	#events {
+		width: 12em;
+		margin: 2em 0.75em;
+	}
+
+	#adspace {
+		width: 12em;
+		margin: 2em 5.5em 2em 0.75em;
+	}
+}
+
+@media only screen and (max-width: 1366px) {
+	#news {
+		width: 12em;
+		margin: 2em 0.25em 2em 5.5em;
+	}
+
+	#events {
+		width: 12em;
+		margin: 2em 0.25em;
+	}
+
+	#adspace {
+		width: 12em;
+		margin: 2em 5.5em 2em 0.25em;
 	}
 }
 
