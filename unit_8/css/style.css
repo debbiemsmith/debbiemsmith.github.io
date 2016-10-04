@@ -206,6 +206,7 @@ nav {
 #img-carousel {
 	float:left;
 	padding: 0.5em;
+	width: 39em;
 }
 
 #form_entry {
@@ -283,6 +284,23 @@ ul#eventlinks li a {
 	width: 14em;
 	height: 14em;
 	background-color: white;
+}
+
+@media only screen and (max-width: 1575px) {
+	#news {
+		width: 12em;
+		margin: 2em 0.25em 2em 5.5em;
+	}
+
+	#events {
+		width: 12em;
+		margin: 2em 0.25em;
+	}
+
+	#adspace {
+		width: 12em;
+		margin: 2em 5.5em 2em 0.25em;
+	}
 }
 
 #adspace img {
