@@ -132,6 +132,28 @@ header {
 	}
 }
 
+@media only screen and (max-width: 1174px) {
+	#global_nav_header h3 {
+		margin: 0em;
+		padding: 0em 0.6em;
+	}
+}
+
+@media only screen and (max-width: 1160px) {
+	#global_nav_header h3 {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 1059px) {
+	#global_nav_header h1 {
+		float: none;
+		margin: 0em;
+		padding: 1em 5.15em;
+		position: absolute;
+	}
+}
+
 #global_nav_links_icons {
 	color: white;
 	float: left;
@@ -161,6 +183,32 @@ header {
 	z-index: 1000;
 	text-align: center;
 }
+
+@media only screen and (max-width: 1215px) {
+	#global_nav_links_icons {
+		margin: 0em;
+		padding: 5.5em 0 0.5em 32em;
+		width: 27%;
+		position: absolute;
+	}
+}
+
+@media only screen and (max-width: 1160px) {
+	#global_nav_links_icons {
+		margin: 0em;
+		padding: 5em 0 0 28em;
+		width: 30%;
+		position: absolute;
+	}
+}
+
+@media only screen and (max-width: 1051px) {
+	#global_nav_links_icons {
+		padding: 4.5em 0 0 6.25em;
+		width: 60%;
+	}
+}
+
 
 nav {
 	position: relative;
@@ -283,6 +331,21 @@ nav {
 @media only screen and (max-width: 1280px) {
 	#carousel {
 		padding: 1em 4em;
+	}
+}
+
+
+@media only screen and (max-width: 1160px) {
+	#carousel {
+		width: 24em;
+		padding: 1em 2em;
+	}
+}
+
+@media only screen and (max-width: 1079px) {
+	#carousel {
+		width: 24em;
+		padding: 1em;
 	}
 }
 
@@ -470,6 +533,36 @@ ul#eventlinks li a {
 	}
 }
 
+@media only screen and (max-width: 1259px) {
+	#news {
+		margin: 2em 0em 2em 1em;
+	}
+
+	#events {
+		margin: 2em 0em;
+	}
+
+	#adspace {
+		margin: 2em 0em;
+	}
+}
+
+@media only screen and (max-width: 982px) {
+	#news {
+		margin: 2em 0.25em;
+		width:26%;
+	}
+
+	#events {
+		width: 26%;
+	}
+
+	#adspace {
+		margin: 2em 0.25em;
+		width: 26%;
+	}
+}
+
 #adspace img {
 	display: block;
 	margin: 0 auto;
@@ -539,6 +632,28 @@ h3#member_ts {
 
 	#quote {
 		margin: 3em 5em 0 0;
+	}
+}
+
+@media only screen and (max-width: 1431px) {
+	#video {
+		width: 50%;
+		margin: 0 auto;
+		float: none;
+	}
+		#quote {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 1280px) {
+	#video {
+		width: 65%;
+		margin: 0 auto;
+		float: none;
+	}
+		#quote {
+		display: none;
 	}
 }
 
