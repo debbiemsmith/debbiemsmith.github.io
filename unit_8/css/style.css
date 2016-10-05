@@ -714,3 +714,13 @@ footer {
 	padding: 0.5em;
 	margin: 0.3em 0 0 37em;
 }
+
+.mobile {
+	display: none;
+}
+
+@media screen and (max-width: 760px) {
+	.mobile {
+		display: block;
+	}
+}
